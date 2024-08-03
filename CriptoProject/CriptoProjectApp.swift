@@ -11,7 +11,7 @@ import SwiftUI
 struct CriptoProjectApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            CoinView()
         }
     }
 }
